@@ -1,4 +1,7 @@
 *.swp
 *.sublime*
 .tags*
-yandex-ddns
+debug
+yaddns
+.vscode/
+tmp/
